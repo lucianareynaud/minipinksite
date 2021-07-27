@@ -8,8 +8,11 @@ h1 {
 color: #716F81;
 }
 
+/*The box model. Standard border 3px. Dimensions assigned clockwise.*/
+
 div {
   background-color: #F2E1C1;
-  width: 300px
+  border-width: 20px;
+  border-color: #B97A95;
 
 }
