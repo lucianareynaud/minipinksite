@@ -1,8 +1,15 @@
 body {
   background-color: white;
+  margin: 0;
 
+}
+
+h1 {
+color: #716F81;
 }
 
 div {
   background-color: #F2E1C1;
+  width: 300px
+
 }
