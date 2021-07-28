@@ -10,7 +10,7 @@ color: #716F81;
 
 /*The box model. Standard border 3px. Dimensions assigned clockwise.*/
 
-div {
+.top-container {
   background-color: #F2E1C1;
   border-width: 20px;
   border-color: #B97A95;
@@ -18,6 +18,12 @@ div {
 
 }
 
-.red-box {
+.middle-container {
+  background-color: red;
+
+}
+
+.bottom-container {
+  background-color: blue;
 
 }
